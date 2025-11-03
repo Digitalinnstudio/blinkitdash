@@ -1,5 +1,7 @@
 # Blinkit Sales & Performance Analysis Dashboard
 
+https://app.powerbi.com/reportEmbed?reportId=3e93454f-30d5-41cd-9210-16066d67a1c5&autoAuth=true&ctid=edd67062-29c1-4a50-8fac-9813dfae8e4b
+
 ## Project Overview
 
 This repository contains the files and documentation for an end-to-end business intelligence project focused on analyzing the sales and operational performance of **Blinkit** (an online grocery delivery service, a product of Zomato).
